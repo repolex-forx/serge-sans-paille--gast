@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/serge-sans-paille/gast/commit/df3a87952aae7ac92ea06c289e05cc3698d3eb3c",
       "git:hexsha": "df3a87952aae7ac92ea06c289e05cc3698d3eb3c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/serge-sans-paille/gast/commit/ed82e2a507505c6b18eb665d3738b6c0602da5e7",
